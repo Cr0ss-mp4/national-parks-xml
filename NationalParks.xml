@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
 
-  <NationalPark>
+  <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
@@ -12,10 +12,9 @@
       <State>AZ</State>
       <Zip>86023</Zip>
     </Address>
-    <Rating>4.9</Rating>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
     <Address NearestAirport="Bozeman">
@@ -25,7 +24,6 @@
       <State>WY</State>
       <Zip>82190</Zip>
     </Address>
-    <Rating>4.8</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -41,7 +39,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.7">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
     <Address NearestAirport="Las Vegas">
@@ -51,7 +49,6 @@
       <State>UT</State>
       <Zip>84767</Zip>
     </Address>
-    <Rating>4.7</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -66,7 +63,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.8">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
     <Address NearestAirport="Bangor">
@@ -76,7 +73,6 @@
       <State>ME</State>
       <Zip>04609</Zip>
     </Address>
-    <Rating>4.8</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -91,7 +87,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.6">
     <Name>Everglades</Name>
     <Phone>305-242-7700</Phone>
     <Address NearestAirport="Miami">
@@ -101,7 +97,6 @@
       <State>FL</State>
       <Zip>33034</Zip>
     </Address>
-    <Rating>4.6</Rating>
   </NationalPark>
 
   <NationalPark>
@@ -116,7 +111,7 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark Rating="4.9">
     <Name>Grand Teton</Name>
     <Phone>307-739-3300</Phone>
     <Address NearestAirport="Jackson">
@@ -126,7 +121,6 @@
       <State>WY</State>
       <Zip>83012</Zip>
     </Address>
-    <Rating>4.9</Rating>
   </NationalPark>
 
 </NationalParks>
