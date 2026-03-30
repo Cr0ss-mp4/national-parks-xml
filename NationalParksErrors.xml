@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<NationalPark>
+<NationalPark> 
 
   <NationalPark>
     <Name>Grand Canyon</Name>
     <Name>Duplicate Name</Name>
 
-    <Address>
+  
+
+    <Address> 
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
       <State>AZ</State>
       <Zip>86023</Zip>
+    </Address>
 
   </NationalPark>
 
